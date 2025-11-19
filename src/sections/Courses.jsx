@@ -3,7 +3,7 @@ import SectionTitle from '../components/SectionTitle';
 import Card from '../components/Card';
 
 // --- 1. TUS IMPORTACIONES DE IMÁGENES ORIGINALES ---
-import CulturaAmb from '../assets/culturaAmbientalyResponsabilidadSocial.jpg';
+import CulturaAmb from '../assets/culturaAmbientalYResponsabilidadSocial.jpg';
 import InvestigacionOp from '../assets/investigacionOperativaII.jpg';
 import DesarrolloWeb from '../assets/desarrolloWebFullStack.jpg';
 import Estadistica from '../assets/estadisticaYProbabilidades.jpg';
